@@ -1,0 +1,5 @@
+Name,Hitmark,Hitlag,N1,Skill,Burst,Dash,Jump,Swap
+CA (0 stacks),89,0.1,141,141,141,99,99,140
+CA (1 stack),51,0.07,113,60,60,61,61,57
+CA (2 stacks),24,0.05,84,31,32,32,33,30
+CA (final),71,0.1,119,86,86,81,81,86

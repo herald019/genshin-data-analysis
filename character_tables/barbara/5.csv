@@ -1,0 +1,10 @@
+Attribute,Skill
+HP Regen/hit (T9%),1.27% Max HP + 147
+Continuous Regen (T9%),6.8% Max HP + 783
+Droplet DMG (T9%),99.28%
+Particles,0
+GU,1U
+Duration,15s
+Cooldown,32s
+Poise Damage,Droplet: 40 Hydro app.: 0
+Impulse Type,Droplet: 4 Hydro app.: 0

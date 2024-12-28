@@ -1,0 +1,14 @@
+Attribute,Burst,Lightning Discharge
+Burst DMG (T9%),206.72%,163.2%
+Lightning Bounces,-,2
+DMG Reduction,32% (scaling),-
+GU,4U,1U
+ICD,-,Standard
+Snapshot,Snapshot,Snapshot
+Damage Element,Electro,Electro
+Damage Type,Burst,Burst
+Energy Cost,80,-
+Duration,15s,15s
+Cooldown,20s,1s
+Poise Damage,400,50
+Impulse Type,4,1

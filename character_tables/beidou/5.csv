@@ -1,0 +1,13 @@
+Attribute,Tap,Hold
+Base DMG (T9%),206.72%,206.72%
+DMG Bonus on Hit Taken (T9%),-,272% (scaling)
+Particles,2,2 ~ 4 (see note)
+GU,2U,2U
+ICD,,
+Snapshot,Dynamic,Dynamic
+Damage Element,Electro,Electro
+Damage Type,Skill,Skill
+Duration,-,upto 3s
+CD,7.5s,7.5s
+Poise Damage,100,1 stack: 200 2 stacks: 300
+Impulse Type,4,1 stack: 4 2 stacks: 6
