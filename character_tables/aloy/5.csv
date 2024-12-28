@@ -1,0 +1,12 @@
+Attribute,Freeze Bomb,Chillwater Bomblets
+Skill DMG (T9%),301.92%,68%
+Particles,5 (-),-
+Frames,67,-
+GU,1U,1U
+ICD,-,Standard
+Snapshot,Snapshot,Snapshot
+Damage Element,Cryo,Cryo
+Damage Type,Skill,Skill
+CD,20s,-
+Poise Damage,120,30
+Impulse Type,2,3

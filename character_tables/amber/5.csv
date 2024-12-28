@@ -1,0 +1,13 @@
+Effect,Skill
+Explosion DMG (T9%),209.44%
+Inherited HP (T9%),70.31%
+Particles,4 (-)
+GU,2U
+ICD,
+Snapshot,Snapshots
+Damage Element,Pyro
+Damage Type,Skill
+Duration,8s
+Cooldown,15s
+Explosion Poise Damage,260
+Explosion Impulse Type,5
