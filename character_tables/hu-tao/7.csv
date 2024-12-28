@@ -1,0 +1,14 @@
+Attribute,Burst
+Skill DMG (T9%),470.34%
+Low HP Skill DMG (T9%),587.93%
+Skill HP Regeneration (T9%),9.71% Max HP
+Low HP Skill Regeneration (T9%),12.95% Max HP
+GU,2U
+ICD,
+Snapshot,On Cast
+Damage Element,Pyro
+Damage Type,Burst
+Energy Cost,60
+Cooldown,15s
+Poise Damage,250
+Impulse Type,3

@@ -1,0 +1,13 @@
+Attribute,Ousia Bubble,Gentilhomme Usher,Surintendante Chevalmarin,Mademoiselle Crabaletta
+DMG (T9%),13.37% Max HP,10.13% Max HP,5.49% Max HP,14.09% Max HP
+HP Consumption,-,2.4% Max HP,1.6% Max HP,3.6% Max HP
+Particles,1 (-) per hit (~3.25s ICD),-,-,-
+GU,1U,1U,1U,1U
+ICD,No ICD,30s/2 Hits,30s/2 Hits,No ICD
+Snapshot,-,Dynamic,Dynamic,Dynamic
+Damage Element,Hydro,Hydro,Hydro,Hydro
+Damage Type,Skill,Skill,Skill,Skill
+Duration,30s,-,-,-
+CD,20s,-,-,-
+Poise Damage,20,15,10,30
+Impulse Type,2,2,2,3

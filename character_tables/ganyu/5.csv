@@ -1,0 +1,14 @@
+Attribute,Skill
+Skill DMG (T9%),224.4% * 2
+Inherited HP,204% max HP
+Cast Particles,2
+Expiration/Destroyed Particles,2
+GU,1U
+ICD,
+Snapshot,Snapshot
+Damage Element,Cryo
+Damage Type,Skill
+Duration,6s
+CD,10s
+Poise Damage,80
+Impulse Type,Cast: 3 Explosion: 4
