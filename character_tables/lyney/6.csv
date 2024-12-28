@@ -1,0 +1,12 @@
+Attribute,Burst
+DMG (T9%),Skill: 261.8% Explosive Firework: 703.8%
+GU,1U
+ICD,
+Snapshot,Dynamic
+Damage Element,Pyro
+Damage Type,Burst
+Energy Cost,60
+Duration,3s
+Cooldown,15s
+Poise Damage,Skill: 40 Explosive Firework: 120
+Impulse Type,Skill: 2 Explosive Firework: 7

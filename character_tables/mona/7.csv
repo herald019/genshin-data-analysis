@@ -1,0 +1,12 @@
+Attribute,Bubble,Omen
+Skill DMG (T9%),752.08%,58% (scaling)
+GU (Cast),1U,2U
+ICD,Standard*,Standard*
+Snapshot,Dynamic,Dynamic
+Damage Element,Hydro,Hydro
+Damage Type,Burst,Burst
+Energy Cost,60,-
+Duration,8s,4.5s
+CD,15s,-
+Poise Damage,Bubble Application: 50 Bubble Explosion: 200,-
+Impulse Type,1,-

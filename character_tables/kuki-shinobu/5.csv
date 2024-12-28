@@ -1,0 +1,14 @@
+Attribute,Skill
+Skill DMG (T9%),128.71%
+Grass Ring of Sanctification Healing (T9%),5.1% Max HP + 587
+Grass Ring of Sanctification DMG (T9%),42.91%
+Tick Rate,1.5s
+Activation Cost,30% Current HP
+Particles,0~1 (55:45)
+GU,1U
+ICD,Standard
+Snapshot,Dynamic
+Damage Element,Electro
+Damage Type,Skill
+Duration,12s
+CD,15s

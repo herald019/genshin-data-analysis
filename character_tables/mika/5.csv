@@ -1,0 +1,12 @@
+Attribute,Tap,Hold
+DMG (T9%),Flowfrost Arrow: 114.24%,Rimestar Flare: 142.8% Rimestar Shard: 42.84%
+Particles,4 (-),4 (-)
+GU,1,1
+ICD,,Rimestar Flare: 3-hit / 2.5s Rimestar Shard: 3-hit / 2.5s
+Snapshot,Dynamic,Snapshot
+Damage Element,Cryo,Cryo
+Damage Type,,Skill
+Duration (Soulwind),12s,12s
+CD,15s,15s
+Poise Damage,100,Rimestar Flare: 100 Rimestar Shard: 50
+Impulse Type,3,Rimestar Flare: 2 Rimestar Shard: 2

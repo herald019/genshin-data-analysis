@@ -1,0 +1,11 @@
+Attribute,Bounce DMG,Mine DMG
+Skill DMG (T9%),161.84%,55.76%
+Particles,4 (-),-
+GU,1U (1st & 2nd) 2U (3rd),1U
+ICD,Standard,Note
+Snapshot,Snapshots,Snapshots
+Damage Element,Pyro,Pyro
+Damage Type,Skill,Skill
+CD,20s,-
+Poise Damage,40,40
+Impulse Type,3,3
