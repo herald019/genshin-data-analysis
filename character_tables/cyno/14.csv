@@ -1,0 +1,4 @@
+Name,Hitmark,Hitlag,N1,Burst,Dash,Jump,Swap,CD
+Default,21,0.0,43,43.0,31,32,42,17
+In Q,28,0.03,36,,32,33,35,26
+"In Q, with A1",28,0.03,84,,32,33,35,?

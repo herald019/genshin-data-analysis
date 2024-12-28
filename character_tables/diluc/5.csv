@@ -1,0 +1,12 @@
+Attribute,Skill (1-Hit),Skill (2-Hit),Skill (3-Hit)
+Skill DMG (T9%),160.48%,165.92%,218.96%
+MV/s (T9%),213.97%/s,191.45%/s,162.19%/s
+Particles,1~2 (3:1),1~2 (3:1),1~2 (3:1)
+GU,1U,1U,1U
+ICD,,,
+Snapshot,Dynamic,Dynamic,Dynamic
+Damage Element,Pyro,Pyro,Pyro
+Damage Type,Skill,Skill,Skill
+Cooldown,10s,-,-
+Poise Damage,120,120,120
+Impulse Type,4,5,6

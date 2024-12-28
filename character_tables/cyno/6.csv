@@ -1,0 +1,11 @@
+Attribute,Burst
+GU,1U
+ICD,Standard
+Snapshot,Dynamic
+Damage Element,Electro
+Energy Cost,80
+Duration,10s
+Cooldown,20s
+Poise Damage,400
+Impulse Type,"Heavy, 600, 0"
+EM Bonus,100

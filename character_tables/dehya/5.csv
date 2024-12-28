@@ -1,0 +1,12 @@
+Attribute,Indomitable Flame,Ranging Flame,Fiery Sanctum Field
+DMG (T9%),191.90%,225.76%,102.34% ATK + 1.75% Max HP
+Particles,-,-,3 (-)
+GU,1U,1U,1U
+ICD,,,
+Snapshot,Snapshot,Snapshot,Snapshot
+Damage Element,Pyro,Pyro,Pyro
+Damage Type,Skill,Skill,Skill
+Duration,-,-,12s
+CD,20s,20s,20s
+Poise Damage,50,50,50
+Impulse Type,4,"Air, 100, 600",2
