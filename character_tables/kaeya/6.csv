@@ -1,0 +1,14 @@
+Attribute,Burst
+Skill DMG (T9%),131.92%
+GU,1U
+ICD,Standard
+Snapshot,Snapshot
+Damage Element,Cryo
+Damage Type,Burst
+Energy Cost,60
+Duration,8s
+Cooldown,15s
+Cast Poise Damage,400
+Cast Impulse Type,4
+Icicle Poise Damage,25
+Icicle Impulse Type,2

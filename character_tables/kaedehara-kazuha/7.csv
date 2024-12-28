@@ -1,0 +1,12 @@
+Effect,Slash,DoT,Elemental DMG
+Skill DMG (T9%),446.08%,204%,61.2%
+GU,2U,1U,1U
+ICD,,,
+Snapshot,Snapshot,Snapshot,Snapshot
+Damage Element,Anemo,Anemo,Absorbed Element
+Damage Type,Burst,Burst,Burst
+Energy Cost,60,-,-
+Duration,8s,-,-
+CD,15s,-,-
+Poise Damage,75,25,-
+Impulse Type,"Light, 0, 100","Light, 0, 100",-
