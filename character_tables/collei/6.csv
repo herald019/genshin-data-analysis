@@ -1,0 +1,12 @@
+Attribute,Explosion,Leap
+DMG (T9%),343.1%,73.52%
+GU,1U,1U
+ICD,3s,3s
+Snapshot,Snapshot,Snapshot
+Damage Element,Dendro,Dendro
+Damage Type,Burst,Burst
+Energy Cost,60,-
+Duration,6s,-
+Cooldown,15s,-
+Poise Damage,30,10
+Impulse Type,2,2

@@ -1,0 +1,13 @@
+Attribute,Tap,Hold
+DMG (T9%),114.2% 'Snappy Silhouette': 66.6%,236.6% 'Focused Impression': 69%
+Particles,3 (-),5 (-)
+Trigger Interval,'Snappy Silhouette': 1.5s,'Focused Impression': 1.5s
+Duration,'Snappy Silhouette': 6s,'Focused Impression': 12s
+GU,1U 'Snappy Silhouette': 1U,1U 'Focused Impression': 1U
+ICD,Standard,Standard
+Snapshot,Dynamic,Dynamic
+Damage Element,Cryo,Cryo
+Damage Type,Skill,Skill
+CD,12s,18s
+Poise Damage,50 'Snappy Silhouette': 20,50 'Focused Impression': 20
+Impulse Type,2 'Snappy Silhouette': 2,2 'Focused Impression': 2
