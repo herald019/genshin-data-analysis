@@ -4,6 +4,7 @@ import requests
 from time import sleep
 from io import StringIO 
 from bs4 import BeautifulSoup
+import json
 import os
 from pathlib import Path
 
@@ -43,9 +44,6 @@ def char_scrape(element, character):
         return 0
         
 
-
-
-
 # iterate through all the characters 
 for index, row in req_data.iterrows():
     print(row["character_name"]," : " ,end="")
@@ -60,8 +58,21 @@ for index, row in req_data.iterrows():
     except FileExistsError:
         print(f"Directory '{directory_path}' already exists.")
     finally:
-        num = 1
+        # num = 1
+        # merged_data = []
+        # json_file_path = f"{directory_path}/{directory_name}.json"
+        # if dfs != 0 :
+        #     for df in dfs:
+        #         data = df.to_json(f"{str(num)}.csv", index=False)
+        #         num +=1
+        #         merged_data.append(data)
+        #     with open(json_file_path, 'w') as outfile:
+        #         json.dump(merged_data, outfile)
+        
+        
         if dfs != 0 :
-            for df in dfs:
-                df.to_csv(f"{directory_path}/{str(num)}.csv", index=False)
-                num +=1
+            num = 1
+            with pd.ExcelWriter(f'{directory_path}/{directory_name}.xlsx')   as writer:
+                for df in dfs:
+                    df.to_excel(writer, sheet_name = str(num), index=False)
+                    num +=1
